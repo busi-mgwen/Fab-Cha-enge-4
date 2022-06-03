@@ -26,7 +26,17 @@ Explore unity as a Interface application maker for making VR 360 environment
 Output a video that can be uploaded on a web platform
  
 # Team Plan
-
+[Busi] Unity dev: 
+- Point cloud visualizer setup and PLY models imports.
+- Creating the world by placing the objects within the proposed story line.
+- Camera setup and testing with a prototype (zombie movie). Including camera movement in Unity, rendering the image sequence, compilig the video on Adobe Premiere and uploadinng to Youtube 360. 
+[Nikita] Point Cloud capoture with Agisoft:
+- Setting up the scenes and different objects to capture with a digital camera. 
+- Experimenting with different photo settings to achive the best processing results (time is a very sensitive variable) inn Agisoft. 
+- Importing different 3d OBJ models fom marketplace and using CloudCompare to transform them into poinnt cloud PLYs.
+- Using Blender's point cloud visualizer to clean point cloud models. 
+[Nikita] Script writing: 
+- Writing narration for the proposed storyline. 
 
 # System diagram ( Functions, Parts and relations)
 
