@@ -1,4 +1,4 @@
-# Fab Challenge 4
+# Fab Challenge 4- The Creatures of Eden
 
 
 
@@ -38,7 +38,24 @@ Figuring out how to change the VR Video we recorded in Unity , into a Image sequ
 Rotational offset for the camera. - had to add c# script to the camera for a rotational movement.
 
 # Find solutions with what you have- Be creative
+Final Micro Challenge documentation 31.05.2022
 
+I fist set up the VR environment on Unity, also brainstorming possible platforms to use
+The project calls for a space that imagines the connection between digital and physical. Some endangered trees endemic to Barcelona are reimagined into peculiar spaces that have exist currently yet 
+
+The project is a speculative exercise to imagine a space with trees that are currently endangered or extinct. The this virtual library is a prototype of an on going project that aims to make digital twins for on-going reforestation initiatives based in Guanabara bay, Brazil
+
+The first step was to install a photogrammetry viewer, point cloud, which I downloaded from a github account. Find the link here.
+
+After that Checked if two models can be put in together, which they could. After that I followed some videos how to use XR set up, according to this video in this link. On 1st June, I set up to link unity to a pair of VR headsets, build the terrain for the scene, and scan trees. 
+
+
+
+After figuring out the concept, we went to take pictures of someobjects we want as photogrammetry files ( 3d point cloud objects) The sequence of making a 3D objects from photos included:
+Taking pictures of an object preferably in a domelike extent, with overlapping photos that
+Upload it to the IAAC cloud, use Agriform to stitch the pictures into a 3D object. For the first tries we used low quality. 
+
+After lots of trouble shooting, we 
 # Future development Opportunities
 
 # Long Term Dissemination Plan
@@ -59,26 +76,7 @@ For Busi, the longevity of the project would be more exhibitions, using Unity in
 
 
 
-Final Micro Challenge documentation 31.05.2022
 
-I fist set up the VR environment on Unity, also brainstorming possible platforms to use
-The project calls for a space that imagines the connection between digital and physical. Some endangered trees endemic to Barcelona are reimagined into peculiar spaces that have exist currently yet 
-
-
-
-The project is a speculative exercise to imagine a space with trees that are currently endangered or extinct. The this virtual library is a prototype of an on going project that aims to make digital twins for on-going reforestation initiatives based in Guanabara bay, Brazil
-
-The first step was to install a photogrammetry viewer, point cloud, which I downloaded from a github account. Find the link here.
-
-After that Checked if two models can be put in together, which they could. After that I followed some videos how to use XR set up, according to this video in this link. On 1st June, I set up to link unity to a pair of VR headsets, build the terrain for the scene, and scan trees. 
-
-
-
-After figuring out the concept, we went to take pictures of someobjects we want as photogrammetry files ( 3d point cloud objects) The sequence of making a 3D objects from photos included:
-Taking pictures of an object preferably in a domelike extent, with overlapping photos that
-Upload it to the IAAC cloud, use Agriform to stitch the pictures into a 3D object. For the first tries we used low quality. 
-
-After lots of trouble shooting, we 
 
 
 
