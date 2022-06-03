@@ -1,6 +1,6 @@
 # Fab Challenge 4- The Creatures of Eden
-![alt text](/pictures/postoer.jpeg)
-
+![alt text](postoer.jpeg)
+<img src="markdownmonstericon.png"
 
 
 # How is it linked to research ideas
@@ -14,7 +14,7 @@ Our Research ideas, as we near the end of the master, both center around the met
 
 The concept of the project was using point cloud photogrammetry, Unity and VR tools to create a visual essay. The concept of the story is a an experience of a traveler in a dream, finding themselves and the meaning of Metamorphosis. The question we wanted to answer, was how can we merge the worlds of storytelling and symbolism and VR. We aimed to intertwined symbolism and realism through imaginative realities that virtual reality offers.
 
-
+![alt text](/pictures/7.jpeg)
 Additionally to our concept, we wanted to disseminate the values and ideologies of the father of VR, Jaron Lanier. Inspired by the idea of haptic intelligence- the idea that virtual reality is not just visiting a world, but becoming one with it.
 
 
