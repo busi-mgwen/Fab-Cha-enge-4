@@ -9,7 +9,7 @@ Our Research ideas, as we near the end of the master, both center around the met
 
 
 
-Concept of the project (What questions need to be answered)
+# Concept of the project (What questions need to be answered)
 
 The concept of the project was using point cloud photogrammetry, Unity and VR tools to create a visual essay. The concept of the story is a an experience of a traveler in a dream, finding themselves and the meaning of Metamorphosis. The question we wanted to answer, was how can we merge the worlds of storytelling and symbolism and VR. We aimed to intertwined symbolism and realism through imaginative realities that virtual reality offers.
 
@@ -18,34 +18,39 @@ Additionally to our concept, we wanted to disseminate the values and ideologies 
 
 
 
-Propose(What is it supposed to do or not do )
+# Propose(What is it supposed to do or not do )
 
 What is it supposed to do:
 Creation of a VR 360 movie where the viewer has 360 degrees of freedom to experience the environment
 Explore unity as a Interface application maker for making VR 360 environment
 Output a video that can be uploaded on a web platform
  
-Team Plan
+# Team Plan
 
 
-System diagram ( Functions, Parts and relations)
+# System diagram ( Functions, Parts and relations)
 
-Honest Design (Use of Technology)
+# Honest Design (Use of Technology)
+At first we wanted to deploy a VR web app, yet in the context of time we decided to make a video uploaded to Youtube
+Troubleshooting:
+Figuring out how to change mesh objects into pointclouds
+Figuring out how to change the VR Video we recorded in Unity , into a Image sequence through Premiere Pro
+Rotational offset for the camera. - had to add c# script to the camera for a rotational movement.
 
-Find solutions with what you have- Be creative
+# Find solutions with what you have- Be creative
 
-Future development Opportunities
+# Future development Opportunities
 
-Long Term Dissemination Plan
+# Long Term Dissemination Plan
 
 
 Collectively, our VR experience could be split into further other prototypes to better the experience. 
 
-Animations of talking
-Better the environment and project package,perhaps consult a game designer for resolve
-Deploy a interaction as a web application, that can be accessed outside of Youtube.
-Detail and guide the process of coding  the VR exporting, 3D modules, scripts and environments to make the project open source for educational purposes.
- After prototyping and following the development process above, we could further develop the project by entering VR festivals, collaborating with stakeholders to stretch the project further, gianing maturity.
+- Animations of talking
+- Better the environment and project package,perhaps consult a game designer for resolve
+- Deploy a interaction as a web application, that can be accessed outside of Youtube.
+- Detail and guide the process of coding  the VR exporting, 3D modules, scripts and environments to make the project open source for educational purposes.
+ - After prototyping and following the development process above, we could further develop the project by entering VR festivals, collaborating with stakeholders to - stretch the project further, gianing maturity.
 
 For the future of Nikita´s explorations, he plans to write and make a film to be attended during the MDEFest. The title being ¨Ünspoken¨. "Unspoken" is a short VR film exploring the world where beings express themselves through mental visions, similar to how the dream world is a composition of symbols. The prospects of this could be using it in film festivals, celebrating how technologies can be used to understand the intangible.
 
@@ -79,10 +84,7 @@ After lots of trouble shooting, we
 
 
 
-Troubleshooting:
-Figuring out how to change mesh objects into pointclouds
-Figuring out how to change the VR Video we recorded in Unity , into a Image sequence through Premiere Pro
-Rotational offset for the camera. - had to add c# script to the camera for a rotational movement
+
 
 
 
